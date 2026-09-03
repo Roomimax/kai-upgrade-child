@@ -1,0 +1,44 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# Node dependencies
+node_modules/
+
+# Build/cache
+.cache/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Secrets
+*.key
+*.pem
+
+# Local configuration
+config.local.php
